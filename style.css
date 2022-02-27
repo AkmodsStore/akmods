@@ -706,7 +706,7 @@ header .icons #menu-bars{
 
 .container{
    max-width: 1200px;
-   margin:150px auto;
+   margin:100px auto;
 
    display: flex;
    flex-wrap: wrap;
@@ -723,7 +723,7 @@ header .icons #menu-bars{
 }
 
 .container .main-video-container .main-video{
-   margin-bottom: 7px;
+   margin-bottom: 10px;
    border-radius: 5px;
    width: 100%;
 }
